@@ -33,7 +33,7 @@ class Grade(object):
         return grade
 
     @staticmethod
-    def main(1):
+    def main():
         while 1:
             menu = input('0-종료 1-학점')
             if menu == '0':
